@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="009a7d53-356a-4b40-b0fd-eecab0761a7a" name="Default" comment="Update INSTALL Script">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tools/VERSION.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/cdb.py" afterPath="$PROJECT_DIR$/Scripts/cdb.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/cdb.sh" afterPath="$PROJECT_DIR$/Scripts/cdb.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tools/install.sh" afterPath="$PROJECT_DIR$/Tools/install.sh" />
     </list>
     <ignored path="ShellBookmark.iws" />
@@ -29,20 +30,20 @@
         <entry file="file://$PROJECT_DIR$/Tools/install.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19213974">
-              <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+            <state vertical-scroll-proportion="-3.0344827">
+              <caret line="4" column="105" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="108" />
               <folding />
             </state>
           </provider>
@@ -55,25 +56,25 @@
         <entry file="file://$PROJECT_DIR$/Scripts/cdb.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cdb.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cdb.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripts/cdb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.09034908">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
-                <marker date="1449484060000" expanded="true" signature="387:567" placeholder="CREATE TABLE..BOOKMARKS..." />
-                <marker date="1449484060000" expanded="true" signature="2364:2412" placeholder="UPDATE BOOKM..." />
-                <marker date="1449484060000" expanded="true" signature="2724:2760" placeholder="DELETE FROM ..." />
-                <marker date="1449484060000" expanded="true" signature="3201:3221" placeholder="DROP TABLE B..." />
-                <marker date="1449484060000" expanded="true" signature="3299:3322" placeholder="SELECT * FRO..BOOKMARKS..." />
-                <marker date="1449484060000" expanded="true" signature="3833:3878" placeholder="SELECT LOCAT..BOOKMARKS..." />
-                <marker date="1449484060000" expanded="true" signature="4036:4092" placeholder="INSERT INTO BOOKMARKS..." />
+                <marker date="1449489336000" expanded="true" signature="1206:1386" placeholder="CREATE TABLE..BOOKMARKS..." />
+                <marker date="1449489336000" expanded="true" signature="3183:3231" placeholder="UPDATE BOOKM..." />
+                <marker date="1449489336000" expanded="true" signature="3543:3579" placeholder="DELETE FROM ..." />
+                <marker date="1449489336000" expanded="true" signature="4020:4040" placeholder="DROP TABLE B..." />
+                <marker date="1449489336000" expanded="true" signature="4118:4141" placeholder="SELECT * FRO..BOOKMARKS..." />
+                <marker date="1449489336000" expanded="true" signature="4652:4697" placeholder="SELECT LOCAT..BOOKMARKS..." />
+                <marker date="1449489336000" expanded="true" signature="4855:4911" placeholder="INSERT INTO BOOKMARKS..." />
               </folding>
             </state>
           </provider>
@@ -101,12 +102,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cdf.sh" />
-        <option value="$PROJECT_DIR$/Scripts/cdb.py" />
         <option value="$PROJECT_DIR$/Scripts/cdf.sh" />
         <option value="$PROJECT_DIR$/Tools/install.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Tools/install.sh" />
         <option value="$PROJECT_DIR$/Tools/VERSION.md" />
+        <option value="$PROJECT_DIR$/Tools/install.sh" />
+        <option value="$PROJECT_DIR$/Scripts/cdb.sh" />
+        <option value="$PROJECT_DIR$/Scripts/cdb.py" />
       </list>
     </option>
   </component>
@@ -479,7 +481,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449486895992</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update INSTALL Script">
+      <created>1449488942812</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1449488942812</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,13 +561,13 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1449484060000" expanded="true" signature="387:567" placeholder="CREATE TABLE..BOOKMARKS..." />
-            <marker date="1449484060000" expanded="true" signature="2364:2412" placeholder="UPDATE BOOKM..." />
-            <marker date="1449484060000" expanded="true" signature="2724:2760" placeholder="DELETE FROM ..." />
-            <marker date="1449484060000" expanded="true" signature="3201:3221" placeholder="DROP TABLE B..." />
-            <marker date="1449484060000" expanded="true" signature="3299:3322" placeholder="SELECT * FRO..BOOKMARKS..." />
-            <marker date="1449484060000" expanded="true" signature="3833:3878" placeholder="SELECT LOCAT..BOOKMARKS..." />
-            <marker date="1449484060000" expanded="true" signature="4036:4092" placeholder="INSERT INTO BOOKMARKS..." />
+            <marker date="1449489336000" expanded="true" signature="1206:1386" placeholder="CREATE TABLE..BOOKMARKS..." />
+            <marker date="1449489336000" expanded="true" signature="3183:3231" placeholder="UPDATE BOOKM..." />
+            <marker date="1449489336000" expanded="true" signature="3543:3579" placeholder="DELETE FROM ..." />
+            <marker date="1449489336000" expanded="true" signature="4020:4040" placeholder="DROP TABLE B..." />
+            <marker date="1449489336000" expanded="true" signature="4118:4141" placeholder="SELECT * FRO..BOOKMARKS..." />
+            <marker date="1449489336000" expanded="true" signature="4652:4697" placeholder="SELECT LOCAT..BOOKMARKS..." />
+            <marker date="1449489336000" expanded="true" signature="4855:4911" placeholder="INSERT INTO BOOKMARKS..." />
           </folding>
         </state>
       </provider>
@@ -596,14 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/cdb.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tools/VERSION.md">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
@@ -618,42 +618,50 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0344827">
+          <caret line="4" column="105" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tools/install.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/cdb.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/cdb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09034908">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <marker date="1449484060000" expanded="true" signature="387:567" placeholder="CREATE TABLE..BOOKMARKS..." />
-            <marker date="1449484060000" expanded="true" signature="2364:2412" placeholder="UPDATE BOOKM..." />
-            <marker date="1449484060000" expanded="true" signature="2724:2760" placeholder="DELETE FROM ..." />
-            <marker date="1449484060000" expanded="true" signature="3201:3221" placeholder="DROP TABLE B..." />
-            <marker date="1449484060000" expanded="true" signature="3299:3322" placeholder="SELECT * FRO..BOOKMARKS..." />
-            <marker date="1449484060000" expanded="true" signature="3833:3878" placeholder="SELECT LOCAT..BOOKMARKS..." />
-            <marker date="1449484060000" expanded="true" signature="4036:4092" placeholder="INSERT INTO BOOKMARKS..." />
+            <marker date="1449489336000" expanded="true" signature="1206:1386" placeholder="CREATE TABLE..BOOKMARKS..." />
+            <marker date="1449489336000" expanded="true" signature="3183:3231" placeholder="UPDATE BOOKM..." />
+            <marker date="1449489336000" expanded="true" signature="3543:3579" placeholder="DELETE FROM ..." />
+            <marker date="1449489336000" expanded="true" signature="4020:4040" placeholder="DROP TABLE B..." />
+            <marker date="1449489336000" expanded="true" signature="4118:4141" placeholder="SELECT * FRO..BOOKMARKS..." />
+            <marker date="1449489336000" expanded="true" signature="4652:4697" placeholder="SELECT LOCAT..BOOKMARKS..." />
+            <marker date="1449489336000" expanded="true" signature="4855:4911" placeholder="INSERT INTO BOOKMARKS..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19213974">
-          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
       </provider>
     </entry>
   </component>
