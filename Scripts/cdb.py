@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!python
 import sqlite3, sys, os, datetime
 
 

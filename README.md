@@ -2,7 +2,7 @@
     
 This script adds directory bookmarking abilities to shell.  Simple run the following command to install setup the scripts.
 
-    On Work!
+    sh -c "$(wget https://raw.githubusercontent.com/vignesh0025/ShellBookmark/master/Tools/install.sh -O -)"
      
 #Syntax
 

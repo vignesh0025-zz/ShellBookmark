@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="009a7d53-356a-4b40-b0fd-eecab0761a7a" name="Default" comment="&#10;">
+    <list default="true" id="009a7d53-356a-4b40-b0fd-eecab0761a7a" name="Default" comment="Update INSTALL Script">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tools/install.sh" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tools/install.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/cdf.sh" afterPath="$PROJECT_DIR$/Scripts/cdb.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/cdb.py" afterPath="$PROJECT_DIR$/Scripts/cdb.py" />
     </list>
     <ignored path="ShellBookmark.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,21 +28,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
+      <file leaf-file-name="install.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tools/install.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.26756757">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cdf.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scripts/cdf.sh">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.0344827">
+              <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cdb.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/cdb.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -48,43 +68,17 @@
         <entry file="file://$PROJECT_DIR$/Scripts/cdb.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding>
-                <marker date="1449483056000" expanded="true" signature="396:576" placeholder="CREATE TABLE..BOOKMARKS..." />
-                <marker date="1449483056000" expanded="true" signature="2373:2421" placeholder="UPDATE BOOKM..." />
-                <marker date="1449483056000" expanded="true" signature="2733:2769" placeholder="DELETE FROM ..." />
-                <marker date="1449483056000" expanded="true" signature="3210:3230" placeholder="DROP TABLE B..." />
-                <marker date="1449483056000" expanded="true" signature="3308:3331" placeholder="SELECT * FRO..BOOKMARKS..." />
-                <marker date="1449483056000" expanded="true" signature="3842:3887" placeholder="SELECT LOCAT..BOOKMARKS..." />
-                <marker date="1449483056000" expanded="true" signature="4045:4101" placeholder="INSERT INTO BOOKMARKS..." />
+                <marker date="1449484060000" expanded="true" signature="387:567" placeholder="CREATE TABLE..BOOKMARKS..." />
+                <marker date="1449484060000" expanded="true" signature="2364:2412" placeholder="UPDATE BOOKM..." />
+                <marker date="1449484060000" expanded="true" signature="2724:2760" placeholder="DELETE FROM ..." />
+                <marker date="1449484060000" expanded="true" signature="3201:3221" placeholder="DROP TABLE B..." />
+                <marker date="1449484060000" expanded="true" signature="3299:3322" placeholder="SELECT * FRO..BOOKMARKS..." />
+                <marker date="1449484060000" expanded="true" signature="3833:3878" placeholder="SELECT LOCAT..BOOKMARKS..." />
+                <marker date="1449484060000" expanded="true" signature="4036:4092" placeholder="INSERT INTO BOOKMARKS..." />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="install.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tools/install.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.814346">
-              <caret line="32" column="77" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -110,7 +104,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cdf.sh" />
+        <option value="$PROJECT_DIR$/Scripts/cdb.py" />
+        <option value="$PROJECT_DIR$/Scripts/cdf.sh" />
+        <option value="$PROJECT_DIR$/Tools/install.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Tools/install.sh" />
       </list>
     </option>
   </component>
@@ -453,14 +451,20 @@
       <option name="project" value="LOCAL" />
       <updated>1449483617820</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update README&#10;">
+      <created>1449483679152</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1449483679152</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -513,7 +517,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/cdf.sh">
+    <entry file="file://$PROJECT_DIR$/Scripts/cdb.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
@@ -526,18 +530,18 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1449483056000" expanded="true" signature="396:576" placeholder="CREATE TABLE..BOOKMARKS..." />
-            <marker date="1449483056000" expanded="true" signature="2373:2421" placeholder="UPDATE BOOKM..." />
-            <marker date="1449483056000" expanded="true" signature="2733:2769" placeholder="DELETE FROM ..." />
-            <marker date="1449483056000" expanded="true" signature="3210:3230" placeholder="DROP TABLE B..." />
-            <marker date="1449483056000" expanded="true" signature="3308:3331" placeholder="SELECT * FRO..BOOKMARKS..." />
-            <marker date="1449483056000" expanded="true" signature="3842:3887" placeholder="SELECT LOCAT..BOOKMARKS..." />
-            <marker date="1449483056000" expanded="true" signature="4045:4101" placeholder="INSERT INTO BOOKMARKS..." />
+            <marker date="1449484060000" expanded="true" signature="387:567" placeholder="CREATE TABLE..BOOKMARKS..." />
+            <marker date="1449484060000" expanded="true" signature="2364:2412" placeholder="UPDATE BOOKM..." />
+            <marker date="1449484060000" expanded="true" signature="2724:2760" placeholder="DELETE FROM ..." />
+            <marker date="1449484060000" expanded="true" signature="3201:3221" placeholder="DROP TABLE B..." />
+            <marker date="1449484060000" expanded="true" signature="3299:3322" placeholder="SELECT * FRO..BOOKMARKS..." />
+            <marker date="1449484060000" expanded="true" signature="3833:3878" placeholder="SELECT LOCAT..BOOKMARKS..." />
+            <marker date="1449484060000" expanded="true" signature="4036:4092" placeholder="INSERT INTO BOOKMARKS..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/install.py">
+    <entry file="file://$PROJECT_DIR$/Tools/install.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -553,7 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/cdf.sh">
+    <entry file="file://$PROJECT_DIR$/Scripts/cdb.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -563,16 +567,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.02972973">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/cdf.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -580,24 +576,16 @@
     <entry file="file://$PROJECT_DIR$/Scripts/cdb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding>
-            <marker date="1449483056000" expanded="true" signature="396:576" placeholder="CREATE TABLE..BOOKMARKS..." />
-            <marker date="1449483056000" expanded="true" signature="2373:2421" placeholder="UPDATE BOOKM..." />
-            <marker date="1449483056000" expanded="true" signature="2733:2769" placeholder="DELETE FROM ..." />
-            <marker date="1449483056000" expanded="true" signature="3210:3230" placeholder="DROP TABLE B..." />
-            <marker date="1449483056000" expanded="true" signature="3308:3331" placeholder="SELECT * FRO..BOOKMARKS..." />
-            <marker date="1449483056000" expanded="true" signature="3842:3887" placeholder="SELECT LOCAT..BOOKMARKS..." />
-            <marker date="1449483056000" expanded="true" signature="4045:4101" placeholder="INSERT INTO BOOKMARKS..." />
+            <marker date="1449484060000" expanded="true" signature="387:567" placeholder="CREATE TABLE..BOOKMARKS..." />
+            <marker date="1449484060000" expanded="true" signature="2364:2412" placeholder="UPDATE BOOKM..." />
+            <marker date="1449484060000" expanded="true" signature="2724:2760" placeholder="DELETE FROM ..." />
+            <marker date="1449484060000" expanded="true" signature="3201:3221" placeholder="DROP TABLE B..." />
+            <marker date="1449484060000" expanded="true" signature="3299:3322" placeholder="SELECT * FRO..BOOKMARKS..." />
+            <marker date="1449484060000" expanded="true" signature="3833:3878" placeholder="SELECT LOCAT..BOOKMARKS..." />
+            <marker date="1449484060000" expanded="true" signature="4036:4092" placeholder="INSERT INTO BOOKMARKS..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/install.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,13 +594,29 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.814346">
-          <caret line="32" column="77" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
+        <state vertical-scroll-proportion="-3.0344827">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/cdb.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools/install.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26756757">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
