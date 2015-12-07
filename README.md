@@ -4,6 +4,10 @@ This script adds directory bookmarking abilities to shell.  Simple run the follo
 
     sh -c "$(wget https://raw.githubusercontent.com/vignesh0025/ShellBookmark/master/Tools/install.sh -O -)"
      
+Once done, add the following line to you ~/.bashrc or ~/.zshrc
+    
+    source /usr/local/cdb.sh
+
 #Syntax
 
     cdf -a Name_of_bookmark
