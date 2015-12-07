@@ -30,4 +30,4 @@ Delete the bookmark with name Name_of_bookmark
     
 Display all options for the function
 
-    Feel free to post issues and request features. Pull requests are welcome :)  
+Feel free to post issues and request features. Pull requests are welcome :)  
