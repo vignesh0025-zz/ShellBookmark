@@ -10,27 +10,27 @@ Once done, add the following line to you ~/.bashrc or ~/.zshrc
 
 #Syntax
 
-    cdf -a Name_of_bookmark
+    cdb -a Name_of_bookmark
     
 Adds the current location as bookmark with name _Name_of_bookmark_ 
 
-    cdf -g Name_of_bookmark
+    cdb -g Name_of_bookmark
    
 Change the directory to bookmark with name _Name_of_bookmark_
 
-    cdf -m Name_of_bookmark
+    cdb -m Name_of_bookmark
     
 Modify the existing bookmark with name _Name_of_bookmark_ to the current location
 
-    cdf -c 
+    cdb -c 
     
 Delete all bookmarks present
 
-    cdf -r Name_of_bookmark
+    cdb -r Name_of_bookmark
    
 Delete the bookmark with name Name_of_bookmark
 
-    cdf -h 
+    cdb -h 
     
 Display all options for the function
 
